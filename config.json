@@ -1,0 +1,8 @@
+{
+  "weights": {
+    "quiz": 0.2,
+    "project": 0.3,
+    "exam": 0.5
+  },
+  "file_path": "students.csv"
+}
